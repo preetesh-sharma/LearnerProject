@@ -10,6 +10,6 @@ public class CalculatorTest {
 
     @Test
     public void multiplytest(){
-        Assert.assertEquals(new Integer(21),c.multiply());
+        Assert.assertEquals(new Integer(20),c.multiply());
     }
 }
