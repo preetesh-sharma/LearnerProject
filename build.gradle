@@ -21,3 +21,14 @@ dependencies {
 test {
     useTestNG()
 }
+
+task testNG(type: Test) {
+    useTestNG {}
+    reports.html.destination = file("$buildDir/reports/testng")
+}
+
+test {
+    reports.html.destination = file("$buildDir/reports/test")
+
+    dependsOn testNG
+}
