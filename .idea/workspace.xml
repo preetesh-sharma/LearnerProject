@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fa8a5a4-84d1-45f8-ae5a-f6c715356e79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JenkinsLearner/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JenkinsLearner/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,9 +157,10 @@
       <screen x="0" y="23" width="1680" height="962" />
     </state>
     <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.962@0.23.1680.962" timestamp="1592077326700" />
-    <state x="496" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1592069340542">
-      <screen x="0" y="23" width="1680" height="962" />
+    <state x="496" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1592838991685">
+      <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="496" y="338" key="com.intellij.ide.util.TipDialog/0.23.1680.962@0.23.1680.962" timestamp="1592069340542" />
+    <state x="496" y="341" key="com.intellij.ide.util.TipDialog/0.23.1680.973@0.23.1680.973" timestamp="1592838991685" />
   </component>
 </project>

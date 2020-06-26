@@ -34,6 +34,7 @@ public class Calculator {
         Calculator c =new Calculator();
         c.a=10;
         c.b=2;
+        System.out.println("just a change");
         System.out.println("suum of a and b is "+ c.add().toString());
         System.out.println("product of a and b is "+c.multiply().toString());
         System.out.println("division of a and b is "+c.divide().toString());
