@@ -31,6 +31,7 @@ public class Calculator {
 
 
     public static void main(String[] args) {
+        System.out.println("In Main function");
         Calculator c =new Calculator();
         c.a=10;
         c.b=2;
